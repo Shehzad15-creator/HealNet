@@ -1,0 +1,333 @@
+{
+    "user1": [
+        {
+            "time": "Sun Feb 23 19:49:27 2025",
+            "mood": "stressed",
+            "response": "Try deep breathing: Inhale for 4 sec, hold, then exhale. Want more tips?"
+        },
+        {
+            "time": "Sun Feb 23 19:49:39 2025",
+            "mood": "overwhelmed",
+            "response": "Break tasks into small steps. Start with one\u2014want a checklist?"
+        },
+        {
+            "time": "Sun Feb 23 19:59:00 2025",
+            "mood": "stressed",
+            "response": "Try deep breathing: Inhale for 4 sec, hold, then exhale. Want more tips?"
+        },
+        {
+            "time": "Sun Feb 23 19:59:03 2025",
+            "mood": "lonely",
+            "response": "You're not alone. Try reaching out to a friend or a group."
+        },
+        {
+            "time": "Sun Feb 23 19:59:07 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 19:59:08 2025",
+            "mood": "angry",
+            "response": "Anger is valid. Try writing it down or deep breathing. Need help calming down?"
+        },
+        {
+            "time": "Sun Feb 23 19:59:10 2025",
+            "mood": "sad",
+            "response": "I'm here for you. Try listing 3 things you're grateful for."
+        },
+        {
+            "time": "Sun Feb 23 19:59:13 2025",
+            "mood": "tired",
+            "response": "Rest is important. Maybe take a short break or nap?"
+        },
+        {
+            "time": "Sun Feb 23 19:59:14 2025",
+            "mood": "happy",
+            "response": "That's great! What made you happy today?"
+        },
+        {
+            "time": "Sun Feb 23 19:59:15 2025",
+            "mood": "meditation",
+            "response": "Try this 5-minute breathing exercise: Inhale for 4 sec, hold, exhale."
+        },
+        {
+            "time": "Sun Feb 23 19:59:16 2025",
+            "mood": "overwhelmed",
+            "response": "Break tasks into small steps. Want a checklist?"
+        },
+        {
+            "time": "Sun Feb 23 19:59:48 2025",
+            "mood": "stressed",
+            "response": "Try deep breathing: Inhale for 4 sec, hold, then exhale. Want more tips?"
+        },
+        {
+            "time": "Sun Feb 23 19:59:56 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 20:07:24 2025",
+            "mood": "stressed",
+            "response": "Try deep breathing: Inhale for 4 sec, hold, then exhale. Want more tips?"
+        },
+        {
+            "time": "Sun Feb 23 20:07:32 2025",
+            "mood": "angry",
+            "response": "Anger is valid. Try writing it down or deep breathing. Need help calming down?"
+        },
+        {
+            "time": "Sun Feb 23 20:13:24 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 20:13:30 2025",
+            "mood": "lonely",
+            "response": "You're not alone. Try reaching out to a friend or a group."
+        },
+        {
+            "time": "Sun Feb 23 20:13:31 2025",
+            "mood": "stressed",
+            "response": "Try deep breathing: Inhale for 4 sec, hold, then exhale. Want more tips?"
+        },
+        {
+            "time": "Sun Feb 23 20:13:32 2025",
+            "mood": "angry",
+            "response": "Anger is valid. Try writing it down or deep breathing. Need help calming down?"
+        },
+        {
+            "time": "Sun Feb 23 20:13:32 2025",
+            "mood": "tired",
+            "response": "Rest is important. Maybe take a short break or nap?"
+        },
+        {
+            "time": "Sun Feb 23 20:13:33 2025",
+            "mood": "meditation",
+            "response": "Try this 5-minute breathing exercise: Inhale for 4 sec, hold, exhale."
+        },
+        {
+            "time": "Sun Feb 23 20:13:38 2025",
+            "mood": "happy",
+            "response": "That's great! What made you happy today?"
+        },
+        {
+            "time": "Sun Feb 23 20:13:38 2025",
+            "mood": "sad",
+            "response": "I'm here for you. Try listing 3 things you're grateful for."
+        },
+        {
+            "time": "Sun Feb 23 20:13:39 2025",
+            "mood": "overwhelmed",
+            "response": "Break tasks into small steps. Want a checklist?"
+        },
+        {
+            "time": "Sun Feb 23 20:13:40 2025",
+            "mood": "lonely",
+            "response": "You're not alone. Try reaching out to a friend or a group."
+        },
+        {
+            "time": "Sun Feb 23 20:13:41 2025",
+            "mood": "stressed",
+            "response": "Try deep breathing: Inhale for 4 sec, hold, then exhale. Want more tips?"
+        },
+        {
+            "time": "Sun Feb 23 20:17:43 2025",
+            "mood": "I am happy",
+            "response": "I'm here to help. How are you feeling today?"
+        },
+        {
+            "time": "Sun Feb 23 20:17:51 2025",
+            "mood": "Happy",
+            "response": "That's great! What made you happy today?"
+        },
+        {
+            "time": "Sun Feb 23 20:18:01 2025",
+            "mood": "pani poori",
+            "response": "I'm here to help. How are you feeling today?"
+        },
+        {
+            "time": "Sun Feb 23 20:19:58 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 20:20:05 2025",
+            "mood": "bored",
+            "response": "I'm here to help. How are you feeling today?"
+        },
+        {
+            "time": "Sun Feb 23 20:20:13 2025",
+            "mood": "bore",
+            "response": "I'm here to help. How are you feeling today?"
+        },
+        {
+            "time": "Sun Feb 23 20:26:45 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 20:26:48 2025",
+            "mood": "tired",
+            "response": "Rest is important. Maybe take a short break or nap?"
+        },
+        {
+            "time": "Sun Feb 23 20:26:49 2025",
+            "mood": "meditation",
+            "response": "Try this 5-minute breathing exercise: Inhale for 4 sec, hold, exhale."
+        },
+        {
+            "time": "Sun Feb 23 20:26:50 2025",
+            "mood": "overwhelmed",
+            "response": "Break tasks into small steps. Want a checklist?"
+        },
+        {
+            "time": "Sun Feb 23 20:26:51 2025",
+            "mood": "angry",
+            "response": "Anger is valid. Try writing it down or deep breathing. Need help calming down?"
+        },
+        {
+            "time": "Sun Feb 23 20:26:52 2025",
+            "mood": "lonely",
+            "response": "You're not alone. Try reaching out to a friend or a group."
+        },
+        {
+            "time": "Sun Feb 23 20:26:53 2025",
+            "mood": "stressed",
+            "response": "Try deep breathing: Inhale for 4 sec, hold, then exhale. Want more tips?"
+        },
+        {
+            "time": "Sun Feb 23 20:30:49 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 20:30:49 2025",
+            "mood": "sad",
+            "response": "I'm here for you. Try listing 3 things you're grateful for."
+        },
+        {
+            "time": "Sun Feb 23 20:30:50 2025",
+            "mood": "happy",
+            "response": "That's great! What made you happy today?"
+        },
+        {
+            "time": "Sun Feb 23 20:30:51 2025",
+            "mood": "tired",
+            "response": "Rest is important. Maybe take a short break or nap?"
+        },
+        {
+            "time": "Sun Feb 23 20:32:16 2025",
+            "mood": "tired",
+            "response": "Rest is important. Maybe take a short break or nap?"
+        },
+        {
+            "time": "Sun Feb 23 20:32:16 2025",
+            "mood": "meditation",
+            "response": "Try this 5-minute breathing exercise: Inhale for 4 sec, hold, exhale."
+        },
+        {
+            "time": "Sun Feb 23 20:32:16 2025",
+            "mood": "happy",
+            "response": "That's great! What made you happy today?"
+        },
+        {
+            "time": "Sun Feb 23 20:32:17 2025",
+            "mood": "sad",
+            "response": "I'm here for you. Try listing 3 things you're grateful for."
+        },
+        {
+            "time": "Sun Feb 23 20:32:17 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 20:32:18 2025",
+            "mood": "angry",
+            "response": "Anger is valid. Try writing it down or deep breathing. Need help calming down?"
+        },
+        {
+            "time": "Sun Feb 23 20:39:13 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 20:39:14 2025",
+            "mood": "sad",
+            "response": "I'm here for you. Try listing 3 things you're grateful for."
+        },
+        {
+            "time": "Sun Feb 23 20:39:14 2025",
+            "mood": "happy",
+            "response": "That's great! What made you happy today?"
+        },
+        {
+            "time": "Sun Feb 23 20:40:08 2025",
+            "mood": "anxious",
+            "response": "It's okay. Focus on what you can control today. Need help?"
+        },
+        {
+            "time": "Sun Feb 23 20:40:10 2025",
+            "mood": "happy",
+            "response": "That's great! What made you happy today?"
+        },
+        {
+            "time": "Sun Feb 23 20:44:46 2025",
+            "mood": "meditation",
+            "response": "Try this 5-minute breathing exercise: Inhale for 4 sec, hold, exhale."
+        },
+        {
+            "time": "Sun Feb 23 20:47:47 2025",
+            "mood": "meditation",
+            "response": "Try this 5-minute breathing exercise: Inhale for 4 sec, hold, exhale."
+        },
+        {
+            "time": "Sun Feb 23 20:48:03 2025",
+            "mood": "meditation",
+            "response": "Try this 5-minute breathing exercise: Inhale for 4 sec, hold, exhale."
+        },
+        {
+            "time": "2025-02-23 21:23:20",
+            "mood": "happy"
+        },
+        {
+            "time": "2025-02-23 21:23:32",
+            "mood": "angry"
+        },
+        {
+            "time": "2025-02-23 21:23:34",
+            "mood": "meditation"
+        },
+        {
+            "time": "2025-02-23 21:23:36",
+            "mood": "progress"
+        },
+        {
+            "time": "2025-02-23 21:27:14",
+            "mood": "overwhelmed"
+        },
+        {
+            "time": "2025-02-23 21:27:16",
+            "mood": "angry"
+        },
+        {
+            "time": "2025-02-23 21:27:19",
+            "mood": "progress"
+        },
+        {
+            "time": "2025-02-23 21:27:21",
+            "mood": "meditation"
+        },
+        {
+            "time": "2025-02-23 21:27:23",
+            "mood": "tired"
+        },
+        {
+            "time": "2025-02-23 21:27:25",
+            "mood": "overwhelmed"
+        },
+        {
+            "time": "2025-02-23 21:27:26",
+            "mood": "anxious"
+        }
+    ]
+}
